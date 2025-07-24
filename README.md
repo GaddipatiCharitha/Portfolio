@@ -4,6 +4,7 @@
 <img width="1920" height="1080" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/fd7d8980-3d56-4b76-9878-d4ec2a0befdf" />
 <img width="1433" height="849" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/a870e332-83f1-4e91-96b8-e045d29516fa" />
 Gaddipati Charitha's Personal Portfolio
+
 Welcome to my personal portfolio website! 🚀
 This project showcases my journey, skills, and projects as a passionate Software Developer and AI Enthusiast.
 
